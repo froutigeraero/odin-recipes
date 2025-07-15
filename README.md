@@ -3,3 +3,6 @@
 This project aims to demonstrate the skills learned in the Odin Project's HTML Foundations module. 
 
 With the completion of this project, I have demonstrated ...
+
+Picture of daal in daal.html is credited to user Timolina on freepik.
+
